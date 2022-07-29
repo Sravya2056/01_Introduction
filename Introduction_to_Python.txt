@@ -1,0 +1,61 @@
+Python is created by Guido Van Rossum
+D.O.B 31st Jan 1956 ( he is still alive)
+He is from Dutch.
+
+Python latest version is Python3
+Specific Version is 3.10.5
+
+The name python came from a T.V serial called Monty's Python Flying Circus
+It is of the type comedy and circus.
+It has 4seasons.
+It was released in 1969
+
+Platforms available for writing the python code
+1) Python
+2) Sublime
+3) Notepad
+4) Notepad++
+5) Atom
+6) JupyterNotebook
+7) Pycharm
+8) Spyder
+9) Brackets
+10) Microsoft Visual Studio Code
+
+
+Microsoft Products
+--------------------
+
+1) MS-Office ( word , excel , powerpoint....)
+2) MS-SQL
+3) PowerBI ( Analytical Tool )  ( we even have Tableau ( not microsoft product ))
+4) Microsoft Teams
+5) Microsoft Azure  ( Cloud ) 
+6) Github 
+7) Microsoft Visual Studio Code
+8) MS Windows
+
+-----------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
